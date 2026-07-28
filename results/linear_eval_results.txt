@@ -1,0 +1,10 @@
+==================================================
+SimCLR Linear Evaluation
+==================================================
+
+Test Loss     : 1.359943
+Test Accuracy : 0.732400
+Epochs        : 100
+Batch Size    : 512
+Learning Rate : 0.100000
+Optimizer     : SGD(momentum=0.9)
