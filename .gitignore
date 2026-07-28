@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+checkpoints/
+data/
+fashion_mnist_data/
+linear_probe/
+mnist_data/
+saved_models/
+venv/
