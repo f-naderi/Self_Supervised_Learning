@@ -63,7 +63,7 @@ Self_Supervised_Learning/
 │
 └── requirements.txt                      # Python package dependencies
 
-
+> Note: Some files are excluded from the repository due to their large size
 
 ## Installation
 
