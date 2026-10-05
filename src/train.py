@@ -10,7 +10,7 @@ from src.loss import NTXentLoss
 tf.keras.mixed_precision.set_global_policy("mixed_float16")
 
 
-# XLA (Optional but faster)
+# XLA
 tf.config.optimizer.set_jit(True)
 
 #########################################################
