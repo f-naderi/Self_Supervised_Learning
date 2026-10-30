@@ -97,9 +97,9 @@ pip install -r requirements.txt
 
 ## References
 
-* Chen et al. A Simple Framework for Contrastive Learning of Visual Representations (SimCLR), ICML 2020.
-* He et al. Deep Residual Learning for Image Recognition, CVPR 2016.
-* Krizhevsky. CIFAR-10 Dataset.
+* Chen, T., Kornblith, S., Norouzi, M., & Hinton, G. (2020, November). A simple framework for contrastive learning of visual representations. In International conference on machine learning (pp. 1597-1607). PmLR.
+* He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+* Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
 
 ```
 
